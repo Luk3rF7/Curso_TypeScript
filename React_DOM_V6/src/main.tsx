@@ -6,6 +6,7 @@ import { Home } from "./components/Home/Home";
 import { About } from "./components/About/About";
 import { Menu } from "./components/Menu/Menu";
 import { Post } from "./components/Post/Post";
+import { Redirect } from "./components/Redirect/Redirect";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
@@ -20,6 +21,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
         <Route path="/about" element={<About />} />
         <Route path="/posts" element={<Post />} />
         <Route path="/posts/:id" element={<Post />} />
+        <Route path="/redirect" element={<Redirect />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
