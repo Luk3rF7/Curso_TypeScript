@@ -1,2 +1,3 @@
-const names = "Lucas";
-const sobrenome = "Felipe";
+const number = 12;
+
+console.log(number);
