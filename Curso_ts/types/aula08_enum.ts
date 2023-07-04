@@ -14,7 +14,7 @@ enum Cors {
   GREY = 208,
 }
 
-function optionCors(cor: Cors): void {
+export function optionCors(cor: Cors): void {
   console.log(Cors[cor]);
 }
 
