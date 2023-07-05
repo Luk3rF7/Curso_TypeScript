@@ -1,3 +1,4 @@
 "use strict";
-var names = "Lucas";
-var sobrenome = "Felipe";
+const names = 'Lucas';
+const sobrenome = 'Felipe';
+console.log(names, sobrenome);

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "wb": "webpack -w",
+    "b:wb": "webpack -w",
+    "b:bd": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

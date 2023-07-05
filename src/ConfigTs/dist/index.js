@@ -1,4 +1,3 @@
 "use strict";
-const names = 'Lucas';
-const sobrenome = 'Felipe';
-console.log(names, sobrenome);
+const number = 12;
+console.log(number);
