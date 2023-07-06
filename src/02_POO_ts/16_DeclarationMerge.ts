@@ -18,5 +18,4 @@ const person: Person = {
   age: 30,
 };
 
-person.age = 30;
 console.log(person);
