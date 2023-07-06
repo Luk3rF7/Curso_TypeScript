@@ -1,4 +1,4 @@
-export class Avatar {
+export abstract class Avatar {
   protected abstract emoji: string;
 
   constructor(
