@@ -236,8 +236,8 @@ export class UmaPessoa {
 
 // Uso da classe
 
-const pessoa = new UmaPessoa("Luiz", "Otávio", 30);
-pessoa.nomeCompleto = "João Silva Oliveira";
+const pessoa = new UmaPessoa("Lc", "developer", 28);
+pessoa.nomeCompleto = "lc felipe candido";
 const metodo = pessoa.metodo("Olá mundo!");
 const metodoEstatico = UmaPessoa.metodoEstatico("Olá mundo!");
 console.log(pessoa);
