@@ -1,4 +1,4 @@
 "use strict";
-const number = 12;
-console.log(number);
-//# sourceMappingURL=index.js.map
+const names = 'Lucas';
+const sobrenome = 'Felipe';
+console.log(names, sobrenome);
