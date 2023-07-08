@@ -1,3 +1,3 @@
-"use strict";
-var names = "Lucas";
-var sobrenome = "Felipe";
+'use strict';
+var names2 = 'Lucas';
+var sobrenome2 = 'Felipe';
