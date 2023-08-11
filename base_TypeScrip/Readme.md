@@ -8,6 +8,6 @@
 <p> e porque isso acontece? porque os navegadores não entendem Ts
 
 
-<h3 align="center"> TsCofnig
+<h3> TsCofnig </h3>
 
 <li> Target define versao do js que vai ser compilado
