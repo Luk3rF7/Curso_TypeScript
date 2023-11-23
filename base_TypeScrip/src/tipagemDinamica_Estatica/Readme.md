@@ -1,4 +1,4 @@
-<h1 align="center"> Dinamica e estatica
+<h1 align="center"> Dinamica e estatica</h1>h1
 
 <li>javascript
 <li>Python
@@ -10,7 +10,7 @@
 -  o tipo de uma variavel e associada com o seu valor </br> e não e explicitamente declarado
 -  o tipo de uma variavel pode ser alterado livremente durante a execução do código
 
-<h3>Exemplo tipagem dinamica(Js)
+<h3>Exemplo tipagem dinamica(Js) </h3>
       - 
       let age 
       age =21 
@@ -20,7 +20,7 @@
       typeof age //String
 
 
-<h2 align="center"> Tipagem Estática
+<h2 align="center"> Tipagem Estática </h2>
 <li>java
 <li>c#
 <li>Rust
@@ -28,7 +28,7 @@
 <li> TypeScript
 
 
-<h3> Tipagem Estática
+<h3> Tipagem Estática </h3>
 -  o tipo de uma varivvel e explicitamente declarado
 -  o tipo de uma variavel pode ser alterado durante a execução do código
 -  os valores assinalado á uma variavel preciam respeitar o seu tipo previamente definido
